@@ -3,12 +3,19 @@
 
 # Requirements
 1.stm32f103c8t6
+
 2.debugger
+
 3.LCD with I2C module
+
 4.DHT11 Sensor
+
 5.Buzzer
+
 6.LED 
+
 7.Stm32CubeIDE
+
 
 
 Here I create a temperature and humidity monitoring system using stm32f103c8t6. 
